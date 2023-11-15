@@ -1,11 +1,4 @@
 # Implementation-of-Logistic-Regression-Using-Gradient-Descent
-
-## AIM:
-To write a program to implement the the Logistic Regression Using Gradient Descent.
-
-## Equipments Required:
-1. Hardware – PCs
-2. Anaconda – Python 3.7 Installat# Implementation-of-Logistic-Regression-Using-Gradient-Descent
 ## Exp no: 5
 ## Date: 05.10.23 
 ## AIM:
@@ -31,7 +24,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ## Program:
 Program to implement the the Logistic Regression Using Gradient Descent.
 ```
-Developed by:S Harish Kumar
+Developed by: S Harish Kumar
 RegisterNumber: 212221230104
 ```
 ```
@@ -128,30 +121,6 @@ np.mean(predict(res.x,X)==y)
 ![image](https://github.com/Brindha77/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118889143/d40871f1-acef-4abe-b197-2443d5810318)
 ### Prediction value of mean:
 ![image](https://github.com/Brindha77/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118889143/9a117131-6df3-460a-aa65-8185815f55fa)
-
-## Result:
-Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
-
-ion / Jupyter notebook
-
-## Algorithm
-1. 
-2. 
-3. 
-4. 
-
-## Program:
-```
-/*
-Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Output:
-![logistic regression using gradient descent](sam.png)
-
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
